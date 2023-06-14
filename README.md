@@ -41,4 +41,14 @@
     - RGB LED / Button 클릭
 
 ## 6일차
-- 
+- 라즈베리파이 학습
+    - MQTT 통신
+        - MQTT Broker IP, port 설정, 계정설정(옵션)
+        - RPi <--> WPF
+        - WPF 모터, LED 제어값 전송
+        - RPi Python paho-mqtt 패키지
+        - WPF C# M2Mqtt패키지
+
+WPF 모니터링, 컨트롤 화면
+
+라즈베리파이 테스트 결과
